@@ -1,0 +1,11 @@
+{
+  "name": "diary",
+  "version": "0.0.1",
+  "author": "Hamsa",
+  "scripts": {
+        "start": "nodemon server.js"
+    },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
